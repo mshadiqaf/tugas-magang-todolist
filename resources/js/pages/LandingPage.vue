@@ -19,7 +19,7 @@ import { Head } from '@inertiajs/vue3';
                 </p>
             </div>
             <div class="flex flex-col items-center">
-                <button class="rounded-full bg-primary px-5 py-3 text-xl font-normal text-white shadow-md">Coba Sekarang!</button>
+                <a href="/login" class="rounded-full bg-primary px-5 py-3 text-xl font-normal text-white shadow-md">Coba Sekarang!</a>
             </div>
         </div>
     </div>
